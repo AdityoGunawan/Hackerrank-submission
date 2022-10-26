@@ -1,4 +1,4 @@
-# Hackerrank-submission
+# Hackerrank submission
 
 This is the compilation of my submission in hackerrank.
 
